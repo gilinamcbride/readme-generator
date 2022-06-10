@@ -17,7 +17,7 @@
 
 ## Description
 
-This application is Command Line application that dynamically generates a professional README.md file from user's input using node.js and the Inquire package.
+This application is Command Line application that dynamically generates a professional README.md file from user's input using node.js and the Inquire package. An example README.md that was created using this application is located in the dist directory.
 
 ## Usage
 
@@ -47,7 +47,7 @@ This application is Command Line application that dynamically generates a profes
 
 ## Application
 
-[Link to video walkthrough]
+[Link to video walkthrough](https://drive.google.com/file/d/1ZT0iKMDicBoNTEdTLVZWaQIvWAa8fq9p/view?usp=sharing)
 
 ## Questions?
 

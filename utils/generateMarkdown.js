@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   ${renderLicenseLink(license)}
-  * [Contributing](#contributing)
+  * [How to Contribute](#how-to-contribute)
   * [Tests](#tests)
   * [Questions](#questions)
   
@@ -71,7 +71,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(license)}
 
-  ## Contributing
+  ## How To Contribute
 
   The following information shows how to contribute to the application:
 
