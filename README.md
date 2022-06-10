@@ -51,4 +51,4 @@ This application is Command Line application that dynamically generates a profes
 
 ## Questions?
 
-For any questions, please email [gilinamcbride@gmail.com](gilinamcbride@gmail.com), or visit any other projects on [Github](github.com/gilinamcbride).
+For any questions, please email gilinamcbride@gmail.com, or visit any other projects on [Github](github.com/gilinamcbride).
