@@ -47,6 +47,8 @@ This application is Command Line application that dynamically generates a profes
 
 ## Application
 
+![Link to video walkthrough](https://drive.google.com/file/d/1ZT0iKMDicBoNTEdTLVZWaQIvWAa8fq9p/view?usp=sharing)
+
 [Link to video walkthrough](https://drive.google.com/file/d/1ZT0iKMDicBoNTEdTLVZWaQIvWAa8fq9p/view?usp=sharing)
 
 ## Questions?
